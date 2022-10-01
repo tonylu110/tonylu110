@@ -7,7 +7,7 @@
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonylu110&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="HikariLan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonylu110&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
 | ------------- | ------------- |
 
-#### I'm a coder and me like open source, some projects me like use then, they are
+#### I'm a coder and me like open source, i like some projects, they are
 ![projects](https://skillicons.dev/icons?i=ts,js,vue,react,svelte,electron,java,spring,nest,nodejs,vite,mongodb)
 
 ----
