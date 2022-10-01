@@ -25,13 +25,13 @@ Here is it's preview
 1. [DeskTop Version](https://github.com/tonylu110/uyou-todo-electron) \
 it use: \
 ![projects](https://skillicons.dev/icons?i=ts,js,vue,electron,vite)
-2. [Mobile Version](https://github.com/tonylu110/uyou-todo-uni)
+2. [Mobile Version](https://github.com/tonylu110/uyou-todo-uni) \
 it use: \
 ![projects](https://skillicons.dev/icons?i=ts,js,vue,vite)
-3. [Chrome extension Version](https://github.com/tonylu110/uyouToDo)
+3. [Chrome extension Version](https://github.com/tonylu110/uyouToDo) \
 it use: \
 ![projects](https://skillicons.dev/icons?i=ts,js,vue,vite)
-4. [Web Version](https://github.com/tonylu110/uyou-todo-page)
+4. [Web Version](https://github.com/tonylu110/uyou-todo-page) \
 it use: \
 ![projects](https://skillicons.dev/icons?i=ts,js,react,vite)
 
