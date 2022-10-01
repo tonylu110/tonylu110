@@ -1,4 +1,4 @@
-### Satluton! Mia nomo astas Anthony Lu.
+### Saluton! Mia nomo astas Anthony Lu.
 
 #### You can chat with me
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Tony_Lu110)
