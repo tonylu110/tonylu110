@@ -1,4 +1,4 @@
-### Saluton! Mia nomo astas Anthony Lu.
+### Saluton! Mia nomo estas Anthony Lu.
 
 #### You can chat with me
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Tony_Lu110)
@@ -42,3 +42,7 @@ You can fast create a new project
 [Click this to the cli use template repo](https://github.com/tonylu110/vite-vue-electron) \
 It have a like windows 11 mica style template, it's awesome
 ![](https://camo.githubusercontent.com/812da877e3c511e47537aae80a2d891051d6d2d94ea4208af238c5cbff078079/68747470733a2f2f766b6365797567752e63646e2e6273706170702e636f6d2f564b4345595547552d30393536623363332d623465642d343035622d383132642d6236623332646662633332322f32326332343039642d396338392d343438392d396266302d6261363066653138653462642e706e67)
+
+----
+
+ This README used [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [skill-icons](https://github.com/tandpfun/skill-icons)
