@@ -4,7 +4,7 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Tony_Lu110)
 [![Discard](https://skillicons.dev/icons?i=discord)](https://discord.gg/psCCt5y6)
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonylu110&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="HikariLan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonylu110&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonylu110&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="Anthony Lu's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonylu110&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### I'm a coder and me like open source, I like some projects, they are
