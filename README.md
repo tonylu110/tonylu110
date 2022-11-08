@@ -12,7 +12,7 @@
 
 ----
 
-#### Also, I have some interesting project
+#### Also, I have some Awesome project!
 - **uyou NewTab** this is a Chrome and FireFox extension \
 [Chrome Version](https://github.com/tonylu110/uyouNewTab) | [FireFox Version](https://github.com/tonylu110/uyouNewTab-firefox) \
 It also have web version, you can visit [https://uyoutab.uyou.org.cn](https://uyoutab.uyou.org.cn) \
