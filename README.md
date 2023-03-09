@@ -21,7 +21,6 @@ And this project about web [http://newtab.uyou.org.cn](http://newtab.uyou.org.cn
 - **uyou ToDo** this project is a Cross-platform ToDo list application \
 It have Desktop, Mobile, Web and chrome extension version. \
 Here is it's preview
-https://github.com/tonylu110/uyou-todo-electron/raw/main/demo/demo2.png
 <img src="https://github.com/tonylu110/uyou-todo-electron/raw/main/demo/demo2.png" width="70%"/>
 
 1. [DeskTop Version](https://github.com/tonylu110/uyou-todo-electron) 
